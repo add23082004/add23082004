@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @add23082004 i'm a highschooler 11th grade
-- 👀 I’m interested in coding, basketball, soccer and table tennis 
-- 🌱 I’m currently learning pyhton and javascript 
-- 💞️ I’m looking to collaborate on a project whichever you choose 
-- 📫 You can reach me by mail(amadoudiakhadiop.24@gmail.com) or instagram(amadou diakha diop)
+- 👋 Hi, I’m @add23082004. I'm currently in my first year of college, studying computer science.
+- 👀 I’m interested in coding, basketball and table tennis.
+- 🌱 I've been learning python for now 3 years and currently i'm studying data science.
+- 📫 You can reach me by mail(amadoudiakhadiop.24@gmail.com) or instagram(_add24_).
 
 <!---
 add23082004/add23082004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
