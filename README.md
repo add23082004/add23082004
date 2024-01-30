@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @add23082004. I'm currently in my first year of college, studying computer science.
-- 👀 I’m interested in coding, basketball and table tennis.
-- 🌱 I've been learning python for now 3 years and currently i'm studying data science.
+- 👀 I’m interested in coding, basketball, table tennis and guitare.
+- 💻 I've always been passionate about coding and i started when i was 14 with tynker and now i'm a data scientist and i'm currently learning cybersecurity as well.
 - 📫 You can reach me by mail(amadoudiakhadiop.24@gmail.com) or instagram(_add24_).
 
 <!---
